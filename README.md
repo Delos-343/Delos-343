@@ -51,6 +51,10 @@
 
 <br><br>
 
+<h1 align="center">My Github Stats</h1>
+
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&show_icons=true&locale=en" alt="delos-343" /></p>
   &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
