@@ -10,6 +10,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&show_icons=true&locale=en" alt="delos-343" /></p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=delos-343&" alt="delos-343" /></p>
+
 <br><br>
 
 <h3 align="center">Connect with me:</h3>
