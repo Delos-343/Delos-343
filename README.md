@@ -1,13 +1,15 @@
 <h1 align="center">Hello there 👋, I'm Fachry</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
-- 🔭 I’m currently working at **Viding.co**, **Broaden Creative**, and **iBiG Academy**
-
-- 🌱 Currently learning **NEXT.js and Svelte**
+<br>
+<p align="center">
+  - 🔭 I’m currently working at **Viding.co**, **Broaden Creative**, and **iBiG Academy**
+  - 🌱 Currently learning **NEXT.js and Svelte**
+</p>
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
 &nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&show_icons=true&locale=en" alt="delos-343" /></p>
 <br>
