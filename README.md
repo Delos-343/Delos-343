@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="left">Other tools I use</h3>
 <p align="left">
