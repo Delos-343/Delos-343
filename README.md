@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fachry</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
+<br><br>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
