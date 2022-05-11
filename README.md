@@ -4,13 +4,13 @@
 - 🔭 I’m currently working at **Viding.co**, **Broaden Creative**, and **iBiG Academy**
 
 - 🌱 Currently learning **NEXT.js and Svelte**
-
-
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
-
+  &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&show_icons=true&locale=en" alt="delos-343" /></p>
-
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
