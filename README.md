@@ -2,11 +2,10 @@
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
 <br>
-<p align="center">
+<br>
   **Viding.co** | **Broaden Creative** | **iBiG Academy**
-  <br>
+  <br><br>
   🌱 Currently learning **NEXT.js** and **Svelte**
-</p>
 <br>
 <br>
 
