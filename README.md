@@ -3,9 +3,9 @@
 
 <br>
 <p align="center">
-  - 🔭 I’m currently working at **Viding.co**, **Broaden Creative**, and **iBiG Academy**
+  **Viding.co** | **Broaden Creative** | **iBiG Academy**
   <br>
-  - 🌱 Currently learning **NEXT.js and Svelte**
+  🌱 Currently learning **NEXT.js** and **Svelte**
 </p>
 <br>
 <br>
