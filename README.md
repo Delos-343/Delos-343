@@ -44,14 +44,14 @@
 
 <br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=delos-343&show_icons=true&locale=en" alt="delos-343" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&show_icons=true&locale=en" alt="delos-343" /></p>
   &nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
 
 <br><br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="right">Connect with Me</h3>
+<p align="right">
 <a href="https://codepen.io/delos_343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="delos_343" height="30" width="40" /></a>
   &nbsp;
 <a href="https://linkedin.com/in/fachry-dwi-han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fachry-dwi-han" height="30" width="40" /></a>
