@@ -47,6 +47,10 @@
 
 <br>
 <br>
+<br>
+<br>
 - 📝 All of my projects are available at [https://github.com/Delos-343/]
 
 - 📫 Reach out to me via : **mfachry.handoko@gmail.com**
+<br>
+<br>
