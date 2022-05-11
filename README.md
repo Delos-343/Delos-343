@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fachry</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
