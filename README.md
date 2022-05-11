@@ -26,8 +26,6 @@
   </a>
 </p>
 
-<br>
-
 <h3 align="left">Other tools I use</h3>
 <p align="left">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
