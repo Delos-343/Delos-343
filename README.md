@@ -3,8 +3,8 @@
 
 <br><br>
 
-<h3 align="left">My Personal Tech Stack</h3>
-<p align="left">
+<h3 align="center">My Personal Tech Stack</h3>
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
@@ -26,8 +26,8 @@
   </a>
 </p>
 
-<h3 align="left">Other tools I use</h3>
-<p align="left">
+<h3 align="center">Other tools I use</h3>
+<p align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
