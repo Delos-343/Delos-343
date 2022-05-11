@@ -5,9 +5,9 @@
 <br>
 
 <h3 align="center>
-  **Viding.co** | **Broaden Creative** | **iBiG Academy**
+  Viding.co | Broaden Creative | iBiG Academy
   <br><br>
-  🌱 Currently learning **NEXT.js** and **Svelte**
+  Currently learning about NEXT.js and Svelte
 </h3>
            
 <br>
