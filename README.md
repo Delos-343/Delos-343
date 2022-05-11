@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="center">Other tools I use</h3>
+<h3 align="center">Other tools that I use</h3>
 <p align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
