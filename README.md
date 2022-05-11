@@ -3,8 +3,8 @@
 
 <br><br>
 
-<h3 align="left">My Personal Tech Stack</h3>
-<p align="left">
+<h3 align="center">My Personal Tech Stack</h3>
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
@@ -24,8 +24,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-  <h3 align="right">Other tools I use</h3>
-<p align="right">
+</p>
+
+<br>
+
+<h3 align="center">Other tools I use</h3>
+<p align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
@@ -45,9 +49,6 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
-</p>
-
-<br>
 </p>
 
 <br><br>
