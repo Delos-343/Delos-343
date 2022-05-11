@@ -1,5 +1,4 @@
 <h1 align="center">Hello there, I'm Fachry 👋</h1>
-<br>
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
 <br><br>
@@ -53,7 +52,6 @@
 <br><br>
 
 <h1 align="center">My Github Stats</h1>
-<br>
 
 <br>
 
