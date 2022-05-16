@@ -62,7 +62,7 @@
 
 <h3 align="right">Connect with Me</h3>
 <p align="right">
-<a href="https://codepen.io/delos_343" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/logo-codepen.png" alt="delos_343" height="30" width="40" /></a>
+<a href="https://codepen.io/delos_343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="delos_343" height="30" width="40" /></a>
   &nbsp;
 <a href="https://linkedin.com/in/fachry-dwi-han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fachry-dwi-han" height="30" width="40" /></a>
   &nbsp;
