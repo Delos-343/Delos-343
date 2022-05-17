@@ -37,7 +37,7 @@
   </a>
     &nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Delos-343/Delos-343/main/assets/bootstrap-5.svg" alt="bootstrap" width="40" height="40" style="color:#0d6efd"/>
+    <img src="https://raw.githubusercontent.com/Delos-343/Delos-343/main/assets/bootstrap-5.svg" alt="bootstrap" width="40" height="40" style="color:#0d6efd;"/>
   </a>
     &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
