@@ -53,8 +53,8 @@
 
 <h1 align="center">My Github Stats</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&theme=highcontrast&show_icons=true&locale=en" alt="delos-343" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&theme=midnight-purple&show_icons=true&locale=en" alt="delos-343" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
 
 <br><br>
 
