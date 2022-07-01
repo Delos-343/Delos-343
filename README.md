@@ -3,7 +3,7 @@
 
 <br><br>
 
-<h3 align="center">My Personal Tech Stack</h3>
+<h3 align="center"> My Personal Tech Stack </h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="nextjs" width="40" height="40"/>
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="center">Other tools that I use</h3>
+<h3 align="center"> Other tools that I use </h3>
 <p align="center">
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -51,7 +51,7 @@
 
 <br><br>
 
-<h1 align="center">My Github Stats</h1>
+<h1 align="center"> My Github Stats </h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delos-343&theme=rose_pine&show_icons=true&locale=en" alt="delos-343" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&theme=rose_pine&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
@@ -61,7 +61,7 @@
 
 
 
-<h3 align="center"> Connect with Me </h3>
+<h3 align="center"> Let's Connect </h3>
 <p align="center">
   <a href="https://codepen.io/delos_343" target="blank"><img align="center" src="https://raw.githubusercontent.com/Delos-343/Delos-343/main/assets/codepen.svg" alt="delos_343" height="30" width="40" /></a>
     &nbsp;
