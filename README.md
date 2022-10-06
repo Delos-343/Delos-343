@@ -1,7 +1,9 @@
+
 <h1 align="center">Hello there, I'm Fachry 👋</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
-<br><br>
+<br>
+<br>
 
 <h3 align="center"> My Personal Tech Stack </h3>
 <p align="center">
@@ -49,23 +51,13 @@
   </a>
 </p>
 
-<br><br>
+<br>
+<br>
 
 <h1 align="center"> My Github Stats </h1>
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=delos-343&theme=rose_pine&show_icons=true&locale=en" alt="delos-343" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&theme=rose_pine&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
 
-<br><br>
-
-<h3 align="center"> Let's Connect </h3>
-<p align="center">
-  <a href="https://codepen.io/delos_343" target="blank"><img align="center" src="https://raw.githubusercontent.com/Delos-343/Delos-343/main/assets/codepen.svg" alt="delos_343" height="30" width="40" /></a>
-    &nbsp;
-  <a href="https://linkedin.com/in/fachry-dwi-han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fachry-dwi-han" height="30" width="40" /></a>
-    &nbsp;
-  <a href="https://instagram.com/f_dwi.han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.dwi_handoko" height="30" width="40" /></a>
-</p>
-
-<br><br>
-
+<br>
+<br>
