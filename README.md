@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there, I'm Fachry 👋</h1>
+<h2 align="center">Hello there, I'm Fachry 👋</h2>
 <h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
 
 <br>
