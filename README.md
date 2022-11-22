@@ -51,12 +51,3 @@
 </p>
 
 <br>
-<br>
-
-<h2 align="center"> My Github Stats </h2>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=delos-343&theme=rose_pine&show_icons=true&locale=en" alt="delos-343" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=delos-343&theme=rose_pine&show_icons=true&locale=en&layout=compact" alt="delos-343" /></p>
-
-<br>
-<br>
