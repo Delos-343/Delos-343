@@ -7,7 +7,7 @@
 <h3 align="center"> My Personal Tech Stack </h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/>
+    <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="nextjs" width="40" height="40"/>
   </a>
     &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
