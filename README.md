@@ -1,13 +1,13 @@
 <h2 align="center">Hello there, I'm Fachry 👋</h2>
-<h3 align="center">Frontend Developer | UI/UX Designer | Coding Teacher</h3>
+<h3 align="center">Frontend Developer | UI/UX Designer | AI Engineer</h3>
 
 <br>
 <br>
 
-<h3 align="center"> My Personal Tech Stack </h3>
+<h3 align="center"> My Tools </h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="nextjs" width="40" height="40"/>
+    <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png](https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   </a>
     &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
