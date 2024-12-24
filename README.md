@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h3 align="center"> Web, Mobile, UI/UX </h3>
+<h3 align="center"> Web/App Development </h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextjs" width="40" height="40"/>
