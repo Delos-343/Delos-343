@@ -7,7 +7,7 @@
 <h3 align="center"> My Tools </h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.creazilla.com/icons/3220588/nextjs-icon-md.png" alt="nextjs" width="40" height="40"/>
   </a>
     &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
