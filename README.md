@@ -34,11 +34,11 @@
 <h3 align="center"> DL/ML </h3>
 <p align="center">
   <a href="https://pytorch.org/get-started/locally/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="35" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="33" height="40"/>
   </a>
     &nbsp;
   <a href="https://pytorch.org/audio/stable/index.html" target="_blank" rel="noreferrer">
-    <img src="https://download.pytorch.org/torchaudio/logo/v1/icon.png" alt="torchaudio" width="60" height="60"/>
+    <img src="https://download.pytorch.org/torchaudio/logo/v1/icon.png" alt="torchaudio" width="50" height="50"/>
   </a>
     &nbsp;
   <a href="https://jupyter.org/try" target="_blank" rel="noreferrer">
