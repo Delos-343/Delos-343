@@ -34,7 +34,7 @@
 <h3 align="center"> DL/ML </h3>
 <p align="center">
   <a href="https://pytorch.org/get-started/locally/" target="_blank" rel="noreferrer">
-    <img src="https://www.clipartmax.com/png/small/476-4769276_pytorch-logo-png.png" alt="pytorch" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="40" height="40"/>
   </a>
     &nbsp;
   <a href="https://pytorch.org/audio/stable/index.html" target="_blank" rel="noreferrer">
