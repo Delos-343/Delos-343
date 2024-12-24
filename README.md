@@ -7,7 +7,7 @@
 <h3 align="center"> My Tools </h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png](https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png](https://cdn.worldvectorlogo.com/logos/next-js.svg](https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo-thumbnail.png" alt="nextjs" width="40" height="40"/>
   </a>
     &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
