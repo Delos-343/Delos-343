@@ -11,7 +11,7 @@
   </a>
     &nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
   </a>
       &nbsp;
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
