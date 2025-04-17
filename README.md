@@ -41,16 +41,16 @@
     <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="33" height="40"/>
   </a>
     &nbsp;
-  <a href="https://github.com/open-mmlab/mmcv" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/main/docs/en/mmcv-logo.png" alt="mmcv" width="85" height="40"/>
-  </a>
-    &nbsp;
   <a href="https://pytorch.org/audio/stable/index.html" target="_blank" rel="noreferrer">
     <img src="https://download.pytorch.org/torchaudio/logo/v1/icon.png" alt="torchaudio" width="50" height="50"/>
   </a>
     &nbsp;
   <a href="https://jupyter.org/try" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter_notebook" width="40" height="40"/>
+  </a>
+    &nbsp;
+  <a href="https://github.com/open-mmlab/mmcv" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/main/docs/en/mmcv-logo.png" alt="mmcv" width="85" height="40"/>
   </a>
 </p>
 
