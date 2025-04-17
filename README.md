@@ -29,6 +29,9 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
+    <a href="https://docs.expo.dev/tutorial/create-your-first-app/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react native" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="center"> DL/ML </h3>
