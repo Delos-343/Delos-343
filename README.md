@@ -29,7 +29,8 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-    <a href="https://docs.expo.dev/tutorial/create-your-first-app/" target="_blank" rel="noreferrer">
+  &nbsp;
+  <a href="https://docs.expo.dev/tutorial/create-your-first-app/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react native" width="40" height="40"/>
   </a>
 </p>
@@ -38,6 +39,10 @@
 <p align="center">
   <a href="https://pytorch.org/get-started/locally/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="33" height="40"/>
+  </a>
+    &nbsp;
+  <a href="https://github.com/open-mmlab/mmcv" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/main/docs/en/mmcv-logo.png" alt="mmcv" width="40" height="40"/>
   </a>
     &nbsp;
   <a href="https://pytorch.org/audio/stable/index.html" target="_blank" rel="noreferrer">
