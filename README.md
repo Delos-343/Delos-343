@@ -42,7 +42,7 @@
   </a>
     &nbsp;
   <a href="https://github.com/open-mmlab/mmcv" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/main/docs/en/mmcv-logo.png" alt="mmcv" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/main/docs/en/mmcv-logo.png" alt="mmcv" width="60" height="40"/>
   </a>
     &nbsp;
   <a href="https://pytorch.org/audio/stable/index.html" target="_blank" rel="noreferrer">
